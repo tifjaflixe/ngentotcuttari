@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://ngentotcuttari.pages.dev/sitemap.xml
